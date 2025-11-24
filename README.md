@@ -1,6 +1,6 @@
 # Interactive DNF Assistant for RHEL-like Systems
 
-pkghelper.sh is a fast, modular, and terminal-friendly Bash script designed to simplify package management on RHEL 8 and compatible distributions like AlmaLinux and Rocky Linux. It provides an interactive menu for common DNF operations, with audit logging, repo toggling, and intelligent formatting.
+pkghelper.sh is a fast, modular, and terminal-friendly Bash script designed to simplify package management on RHEL  and compatible distributions like AlmaLinux and Rocky Linux. It provides an interactive menu for common DNF operations, with audit logging, repo toggling, and intelligent formatting.
 
 ## ⚙️ Features
 
