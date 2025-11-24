@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# pkghelper.sh – Simple interactive DNF package manager for RHEL 8 and compatible systems
+# pkghelper.sh – Simple interactive DNF package manager for RHEL and compatible systems
 
 LOGDIR="$HOME/.pkghelper/logs"
 mkdir -p "$LOGDIR"
